@@ -1,1 +1,1 @@
-#Thus is my local repo
+# gitThus is my local repo
